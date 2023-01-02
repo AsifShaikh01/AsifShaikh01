@@ -2,8 +2,10 @@
 # About Me
 :computer: **FULL STACK WEB DEVELOPER**
 # How to Reach Me??
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
 - [Portfolio](https://asifshaikh01.github.io/)
+
+# My Github Matrics
 
 <!--
 **AsifShaikh01/AsifShaikh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
