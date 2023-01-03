@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋   I am Asif Shaikh
+![This is an image](https://drive.google.com/file/d/1Vktl3KixxZszUQvu852VOKNVJY8DjDsj/view?usp=sharing)
 # About Me
 :computer: **FULL STACK WEB DEVELOPER**
+# Tech Stack
+![This is an image](https://cdn-icons-png.flaticon.com/128/888/888859.png)
 # How to Reach Me??
 - [LinkedIn](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
 - [Portfolio](https://asifshaikh01.github.io/)
