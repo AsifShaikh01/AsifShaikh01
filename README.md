@@ -1,7 +1,7 @@
 ### Hi there 👋   I am Asif Shaikh
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/free-photo/programming-background-collage_23-2149901771.jpg?size=626&ext=jpg&ga=GA1.2.1922158661.1673022219&semt=sph">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="100%" height="250px">
 </picture>
 
@@ -11,12 +11,12 @@
 <div style="display : flex">
 <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50px">
 <img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50px">
-<img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50px">
-<img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50px">
-  <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50px">
-<img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50px">
-  <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50px">
-<img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50px">
+<img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px">
+<img alt="BootStarp" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px">
+  <img alt="ReactJs" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" width="50px">
+<img alt="git" src="https://cdn-icons-png.flaticon.com/128/1240/1240970.png" width="50px">
+  <img alt="Github" src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width="50px">
+<img alt="VS code" src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="50px">
 </div>
 
 # How to Reach Me??
