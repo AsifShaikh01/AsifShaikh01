@@ -1,8 +1,8 @@
 ### Hi there 👋   I am Asif Shaikh
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/free-photo/programming-background-collage_23-2149901771.jpg?size=626&ext=jpg&ga=GA1.2.1922158661.1673022219&semt=sph">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="100%" height="250px">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/128/9307/9307653.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="10%">
 </picture>
 
 # About Me
