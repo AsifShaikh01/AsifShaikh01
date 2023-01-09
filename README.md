@@ -23,7 +23,12 @@
 - [LinkedIn](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
 - [Portfolio](https://asifshaikh01.github.io/)
 
-# My Github Contribution Matrix
+# My Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifShaikh01">
+<img src="https://github-stats-alpha.vercel.app/api?username=AsifShaikh01 styel">
+
+
 
 
 
