@@ -26,7 +26,7 @@
 # My Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifShaikh01">
-<img src="https://github-stats-alpha.vercel.app/api?username=AsifShaikh01 styel">
+<img src="https://github-stats-alpha.vercel.app/api?username=AsifShaikh01">
 
 
 
