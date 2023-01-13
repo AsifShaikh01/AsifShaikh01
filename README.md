@@ -1,4 +1,5 @@
-### Hi there 👋   I am Asif Shaikh
+<h1> Hi there 👋   I am Asif Shaikh</h1>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/128/9307/9307653.png">
@@ -6,7 +7,8 @@
 </picture>
 
 # About Me
-:computer: **FULL STACK WEB DEVELOPER**
+- :computer: **FULL STACK WEB DEVELOPER**
+- :book: **Currently pursuing Full Stack Web Developement course with MASAI SCHOOL**
 # Tech Stack
 <div style="display : flex">
 <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50px">
