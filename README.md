@@ -1,3 +1,4 @@
+
 <h1> Hi there 👋   I am Asif Shaikh</h1>
 
 <picture>
@@ -9,6 +10,7 @@
 # About Me
 - :computer: **FULL STACK WEB DEVELOPER**
 - :book: **Currently pursuing Full Stack Web Developement course with MASAI SCHOOL**
+- 👯 I’m looking to collaborate on **E-commerce project**
 # Tech Stack
 <div style="display : flex">
 <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50px">
@@ -16,9 +18,16 @@
 <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px">
 <img alt="BootStarp" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px">
   <img alt="ReactJs" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" width="50px">
+  <img alt="Redux" src="https://img.icons8.com/color/1x/redux.png" width="50px">
+  <img alt="Material UI" src="https://img.icons8.com/color/1x/material-ui.png" width="50px">
+  <img alt="Chakra UI" src="https://img.icons8.com/color/1x/chakra-ui.png" width="50px">
+  <img alt="npm" src="https://img.icons8.com/color/1x/npm.png" width="50px">
 <img alt="git" src="https://cdn-icons-png.flaticon.com/128/1240/1240970.png" width="50px">
   <img alt="Github" src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width="50px">
-<img alt="VS code" src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="50px">
+
+ <img alt="NodeJS" src="https://img.icons8.com/fluency/1x/node-js.png" width="50px">
+  <img alt="ExpressJS" src="https://img.icons8.com/ios/1x/express-js.png" width="50px">
+<img alt="MongoDB" src="https://img.icons8.com/color/1x/mongodb.png" width="50px"> 
 </div>
 
 # How to Reach Me??
@@ -48,3 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
