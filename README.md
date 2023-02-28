@@ -11,28 +11,42 @@
 - :computer: **FULL STACK WEB DEVELOPER**
 - :book: **Currently pursuing Full Stack Web Developement course with MASAI SCHOOL**
 - 👯 I’m looking to collaborate on **E-commerce project**
-# Tech Stack
-<div style="display : flex">
-<img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50px">
-<img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50px">
-<img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px">
-<img alt="BootStarp" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px">
-  <img alt="ReactJs" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" width="50px">
-  <img alt="Redux" src="https://img.icons8.com/color/1x/redux.png" width="50px">
-  <img alt="Material UI" src="https://img.icons8.com/color/1x/material-ui.png" width="50px">
-  <img alt="Chakra UI" src="https://img.icons8.com/color/1x/chakra-ui.png" width="50px">
-  <img alt="npm" src="https://img.icons8.com/color/1x/npm.png" width="50px">
-<img alt="git" src="https://cdn-icons-png.flaticon.com/128/1240/1240970.png" width="50px">
-  <img alt="Github" src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width="50px">
+## TECH STACK AND TOOLS
+<div align="left">
+<h3>Tech Stack:</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></img>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></img>
+<img src="ttps://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></img>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+<h3>Version Control and Developement tools used:</h3>
+ <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+<h3>Operating system familiar with:</h3>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
 
- <img alt="NodeJS" src="https://img.icons8.com/fluency/1x/node-js.png" width="50px">
-  <img alt="ExpressJS" src="https://img.icons8.com/ios/1x/express-js.png" width="50px">
-<img alt="MongoDB" src="https://img.icons8.com/color/1x/mongodb.png" width="50px"> 
 </div>
 
 # How to Reach Me??
+<a href="mailto:asifshaikh0024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - [LinkedIn](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
 - [Portfolio](https://asifshaikh01.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Asif%20Shaikh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asif-shaikh-74bb26146// "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
 # My Stats
 
