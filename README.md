@@ -1,11 +1,6 @@
 
-<h1> Hi there 👋   I am Asif Shaikh</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/128/9307/9307653.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="10%">
-</picture>
+<h1 align="center"> Hi there 👋   I am Asif Shaikh</h1>
+<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1922158661.1673022219&semt=ais" width=100% height=400px/>
 
 # About Me
 - :computer: **FULL STACK WEB DEVELOPER**
@@ -40,18 +35,17 @@
 
 # How to Reach Me??
 <a href="mailto:asifshaikh0024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-- [LinkedIn](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
-- [Portfolio](https://asifshaikh01.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Asif%20Shaikh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asif-shaikh-74bb26146// "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
+<a href="https://www.linkedin.com/in/asif-shaikh-74bb26146/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://asifshaikh01.github.io"><img src="https://img.shields.io/badge/portfolio-%2300843e.svg?style=for-the-badge&logoColor=white"/></a>
+
+
 
 # My Stats
+<div>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AsifShaikh01&theme=react"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifShaikh01&theme=dracula"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifShaikh01">
-<img src="https://github-stats-alpha.vercel.app/api?username=AsifShaikh01">
 
 
 
