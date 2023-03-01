@@ -52,7 +52,7 @@
 # My Stats
 <div>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AsifShaikh01&theme=react"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifShaikh01&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifShaikh01&theme=dracula" width="100%"/>
 </div>
 
 
