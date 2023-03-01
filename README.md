@@ -1,11 +1,20 @@
 
 <h1 align="center"> Hi there 👋   I am Asif Shaikh</h1>
-<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1922158661.1673022219&semt=ais" width=100% height=400px/>
+<div>
+ <img src="https://global-uploads.webflow.com/59e16042ec229e00016d3a66/5dfbd74fe0b6d7150b256a28_digital-marketing-hero.gif" width="100%" height="350px"/>
+
+ </div>
 
 # About Me
+
+<img align="right" marginTop="-100px" src="https://wallpapercave.com/dwp1x/wp8903914.jpg" width="24%"/>
+
 - :computer: **FULL STACK WEB DEVELOPER**
 - :book: **Currently pursuing Full Stack Web Developement course with MASAI SCHOOL**
 - 👯 I’m looking to collaborate on **E-commerce project**
+
+<!-- ![Picture](https://wallpapercave.com/dwp1x/wp8903914.jpg){: style="float: left" } -->
+
 ## TECH STACK AND TOOLS
 <div align="left">
 <h3>Tech Stack:</h3>
