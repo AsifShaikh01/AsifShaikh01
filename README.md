@@ -45,7 +45,7 @@
 # How to Reach Me??
 <a href="mailto:asifshaikh0024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/asif-shaikh-74bb26146/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://asifshaikh01.github.io"><img src="https://img.shields.io/badge/portfolio-%2300843e.svg?style=for-the-badge&logoColor=white"/></a>
+[portfolio](https://asifshaikh01.github.io)
 
 
 
