@@ -12,6 +12,8 @@
 - :computer: **FULL STACK WEB DEVELOPER**
 - :book: **Currently pursuing Full Stack Web Developement course with MASAI SCHOOL**
 - 👯 I’m looking to collaborate on **E-commerce project**
+- [portfolio](https://asifshaikh01.github.io)
+- [linkedin](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
 
 <!-- ![Picture](https://wallpapercave.com/dwp1x/wp8903914.jpg){: style="float: left" } -->
 
@@ -41,14 +43,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
 
 </div>
-
-# How to Reach Me??
-
-- [portfolio](https://asifshaikh01.github.io)
-- [linkedin](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
-
-
-
 
 # My Stats
 <div>
