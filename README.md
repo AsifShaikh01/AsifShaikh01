@@ -12,9 +12,9 @@
 - :computer: **FULL STACK WEB DEVELOPER**
 - :book: **Currently pursuing Full Stack Web Developement course with MASAI SCHOOL**
 - 👯 I’m looking to collaborate on **E-commerce project**
-- <a href="https://asifshaikh01.github.io">Portfolio</a>
+- **click to see my** :point_right: <a href="https://asifshaikh01.github.io">Portfolio</a>
 
-- [linkedin](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
+- :globe_with_meridians: **connect with me on my** [linkedin](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
 
 <!-- ![Picture](https://wallpapercave.com/dwp1x/wp8903914.jpg){: style="float: left" } -->
 
@@ -45,11 +45,6 @@
 
 </div>
 
-
-# How to reach me??
-<div>
- <a href="https://www.linkedin.com/in/asif-shaikh-74bb26146/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-</div>
 
 # My Stats
 <div>
