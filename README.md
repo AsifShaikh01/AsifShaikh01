@@ -15,8 +15,7 @@
 - **click to see my** :point_right: <a href="https://asifshaikh01.github.io/">Portfolio</a>
 
 - :globe_with_meridians: **connect with me on my** [linkedin](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
-
-<!-- ![Picture](https://wallpapercave.com/dwp1x/wp8903914.jpg){: style="float: left" } -->
+- 
 
 ## TECH STACK AND TOOLS
 <div align="left">
@@ -57,18 +56,5 @@
 
 
 
-<!--
-**AsifShaikh01/AsifShaikh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  
