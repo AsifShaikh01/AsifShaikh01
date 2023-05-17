@@ -15,7 +15,7 @@
 - **click to see my** :point_right: [portfolio](https://asifshaikh01.github.io/)
 
 - :globe_with_meridians: **connect with me on my** [linkedin](https://www.linkedin.com/in/asif-shaikh-74bb26146/)
-- 
+
 
 ## TECH STACK AND TOOLS
 <div align="left">
